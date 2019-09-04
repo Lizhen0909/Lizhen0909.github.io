@@ -1,5 +1,5 @@
 ---
-title: "CGS 3416: Java for Non Majors"
+title: "CGS 3416: Java for Non Majors, Spring 2019"
 collection: teaching
 type: "Undergraduate course"
 permalink: http://www.cs.fsu.edu/~cgs3416/
