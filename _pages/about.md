@@ -16,3 +16,7 @@ Research Interests
 ------
 big data analytics, natural language processing, bioinformatics, and computational biology. 
 
+
+CV
+-----
+Please find my CV [here](Lizhen_cv_2019.pdf).
