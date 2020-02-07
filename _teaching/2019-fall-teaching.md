@@ -11,5 +11,5 @@ location: "Tallahassee, FL"
 This course is an introduction to software engineering, using the Java programming language.
 The course is designed for students with no or little programming experience. Students will learn
 the fundamentals of Java and object-oriented programming (OOP) using Java. The focus is on
-developing high quality, working software that solves real problems. Find the website at [CGS3416 Fall 2019](http://ww2.cs.fsu.edu/~lshi/CGS3416Fall2019)
+developing high quality, working software that solves real problems. Find the course website at [CGS3416 Fall 2019](http://ww2.cs.fsu.edu/~lshi/CGS3416Fall2019)
 
